@@ -1,3 +1,5 @@
+<img align="right" width="150" src="./robot.svg" alt="Robot waving hello" />
+
 <div align="center">
 
 # Hi, I'm Mohamed Boudaya 👋
