@@ -54,8 +54,6 @@
 |---|---|---|
 | ♻️ [**Automated Reverse Vending Machine**](https://github.com/mohamedboudaya/reverse-vending-machine) | Low-cost machine that detects, weighs and sorts plastic bottles and metal cans. Graduation project at Cyntillion Solutions. | Arduino Mega, C++, sensors, L298N, CAD |
 
-*More academic projects coming soon.*
-
 ---
 
 ## 💼 Experience
