@@ -18,7 +18,7 @@
 
 - 🎓 **MSc in Mechatronics Engineering** at the **University of Rome "Tor Vergata"** (2025 – present)
 - 🎓 **BSc in Automation and Industrial Computing**, Faculty of Sciences of Sfax, Tunisia (2020 – 2023)
-- 🤖 Interested in **robotics, embedded systems, control and automation**
+- 🤖 Interested in **robotics, embedded systems, control and simulation**
 - 🔧 I enjoy building complete systems: from sensors and wiring to firmware and mechanical design
 - 📫 Open to internship and thesis opportunities in robotics and embedded systems
 
