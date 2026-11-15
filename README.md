@@ -38,15 +38,8 @@
   <img src="https://skillicons.dev/icons?i=arduino,ros,matlab,linux,git&theme=dark" alt="Arduino, ROS, MATLAB, Linux, Git" />
 </p>
 
-![VHDL](https://img.shields.io/badge/VHDL-4A4A4A?style=for-the-badge)
-![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logoColor=black)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus_8-1F6FB2?style=for-the-badge)
-
 <p>
-  <img src="https://img.shields.io/badge/TIA_Portal-009999?style=for-the-badge" alt="TIA Portal" />
-  <img src="https://img.shields.io/badge/STEP_7-009999?style=for-the-badge" alt="STEP 7" />
-  <img src="./badge-arm-v2.svg" alt="A robot arm places more skills: PLCSIM, SolidWorks, Inventor" />
+  <img src="./badges.svg" alt="VHDL, LabVIEW, KiCad, Proteus 8, TIA Portal, STEP 7, PLCSIM, SolidWorks, Inventor" />
 </p>
 
 ---
