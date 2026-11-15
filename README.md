@@ -36,14 +36,18 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,ros,matlab,linux,git&theme=dark" alt="Arduino, ROS, MATLAB, Linux, Git" />
-  <img src="./arm.svg" alt="A robot arm places more skills: VHDL, KiCad, LabVIEW, Proteus" />
 </p>
 
-![TIA Portal](https://img.shields.io/badge/TIA_Portal-009999?style=for-the-badge)
-![STEP 7](https://img.shields.io/badge/STEP_7-009999?style=for-the-badge)
-![PLCSIM](https://img.shields.io/badge/PLCSIM-009999?style=for-the-badge)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-D52B1E?style=for-the-badge)
-![Autodesk Inventor](https://img.shields.io/badge/Inventor-E8A02C?style=for-the-badge&logo=autodesk&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-4A4A4A?style=for-the-badge)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logoColor=black)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus_8-1F6FB2?style=for-the-badge)
+
+<p>
+  <img src="https://img.shields.io/badge/TIA_Portal-009999?style=for-the-badge" alt="TIA Portal" />
+  <img src="https://img.shields.io/badge/STEP_7-009999?style=for-the-badge" alt="STEP 7" />
+  <img src="./badge-arm-v2.svg" alt="A robot arm places more skills: PLCSIM, SolidWorks, Inventor" />
+</p>
 
 ---
 
