@@ -3,7 +3,7 @@
 # Hi, I'm Mohamed Boudaya 👋
 
 <a href="https://github.com/mohamedboudaya">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Mechatronics+Engineering+Student;Robotics+%26+Embedded+Systems;Modeling+%E2%80%A2+Control+%E2%80%A2+Simulation" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Mechatronics+Engineering+Student;Robotics+%26+Embedded+Systems;Modeling+%E2%80%A2+Control+%E2%80%A2+Automation" alt="Typing animation" />
 </a>
 
 📍 Rome, Italy
