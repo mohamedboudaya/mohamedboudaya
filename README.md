@@ -18,7 +18,7 @@
 
 - 🎓 **MSc in Mechatronics Engineering** at the **University of Rome "Tor Vergata"** (2025 – present)
 - 🎓 **BSc in Automation and Industrial Computing**, Faculty of Sciences of Sfax, Tunisia (2020 – 2023)
-- 🤖 Interested in **robotics, embedded systems, control and automation**
+- 🤖 Interested in **robotics, embedded systems, control and simulation**
 - 🔧 I enjoy building complete systems: from sensors and wiring to firmware and mechanical design
 - 📫 Open to internship and thesis opportunities in robotics and embedded systems
 
@@ -29,25 +29,24 @@
 **Programming**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css&theme=dark" alt="C, C++, Python, Java, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css&theme=dark" alt="Programming languages" />
 </p>
 
 **Embedded, Robotics & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,ros,matlab,linux,git&theme=dark" alt="Arduino, ROS, MATLAB, Linux, Git" />
+  <img src="https://skillicons.dev/icons?i=arduino,ros,matlab,linux,git&theme=dark" alt="Tools" />
 </p>
 
 ![VHDL](https://img.shields.io/badge/VHDL-4A4A4A?style=for-the-badge)
+![TIA Portal](https://img.shields.io/badge/TIA_Portal-009999?style=for-the-badge)
+![STEP 7](https://img.shields.io/badge/STEP_7-009999?style=for-the-badge)
+![PLCSIM](https://img.shields.io/badge/PLCSIM-009999?style=for-the-badge)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logoColor=black)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-D52B1E?style=for-the-badge)
+![Autodesk Inventor](https://img.shields.io/badge/Inventor-E8A02C?style=for-the-badge&logo=autodesk&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus_8-1F6FB2?style=for-the-badge)
-
-<p>
-  <img src="https://img.shields.io/badge/TIA_Portal-009999?style=for-the-badge" alt="TIA Portal" />
-  <img src="https://img.shields.io/badge/STEP_7-009999?style=for-the-badge" alt="STEP 7" />
-  <img src="./badge-arm-v2.svg" alt="A robot arm places more skills: PLCSIM, SolidWorks, Inventor" />
-</p>
 
 ---
 
