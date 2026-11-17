@@ -2,9 +2,7 @@
 
 # Hi, I'm Mohamed Boudaya 👋
 
-<a href="https://github.com/mohamedboudaya">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Mechatronics+Engineering+Student;Robotics+%26+Embedded+Systems;Modeling+%E2%80%A2+Control+%E2%80%A2+Automation" alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=100000&color=2F81F7&center=true&vCenter=true&repeat=false&width=700&lines=Mechatronics+Engineering+Student+%40+Tor+Vergata" alt="Mechatronics Engineering Student @ Tor Vergata" />
 
 📍 Rome, Italy
 
@@ -14,7 +12,6 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **MSc in Mechatronics Engineering** at the **University of Rome "Tor Vergata"** (2025 – present)
 - 🎓 **BSc in Automation and Industrial Computing**, Faculty of Sciences of Sfax, Tunisia (2020 – 2023)
 - 🤖 Interested in **robotics, embedded systems, control and automation**
 - 🔧 I enjoy building complete systems: from sensors and wiring to firmware and mechanical design
