@@ -34,7 +34,7 @@
 </p>
 
 <p>
-  <img src="./badges.svg" alt="VHDL, LabVIEW, KiCad, Proteus 8, TIA Portal, STEP 7, PLCSIM, SolidWorks, Inventor" />
+  <img src="./badges-v5.svg" alt="VHDL, LabVIEW, KiCad, Proteus 8, TIA Portal, STEP 7, PLCSIM, SolidWorks, Inventor" />
 </p>
 
 ---
