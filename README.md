@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 - 🎓 **MSc in Mechatronics Engineering** at the **University of Rome "Tor Vergata"** (2025 – present)
 - 🎓 **BSc in Automation and Industrial Computing**, Faculty of Sciences of Sfax, Tunisia (2020 – 2023)
-- 🤖 Interested in **robotics, embedded systems, control and automation**
+- 🤖 Interested in **robotics, embedded systems, control and automation, modeling and simulation**
 - 🔧 I enjoy building complete systems: from sensors and wiring to firmware and mechanical design
 - 📫 Open to internship and thesis opportunities in robotics and embedded systems
 
@@ -44,6 +44,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | ♻️ [**Automated Reverse Vending Machine**](https://github.com/mohamedboudaya/reverse-vending-machine) | Low-cost machine that detects, weighs and sorts plastic bottles and metal cans. Graduation project at Cyntillion Solutions. | Arduino Mega, C++, sensors, L298N, CAD |
+| 🔥 [**Waste Heat to Hydrogen: ORC + PEM Electrolyzer**](https://github.com/mohamedboudaya/waste-heat-hydrogen-orc) | Hybrid energy system that turns industrial exhaust heat into electricity with an Organic Rankine Cycle (R1233zd(E)) and stores the surplus as hydrogen with a PEM electrolyzer. Includes a varying waste-heat source, PI control loops and a one-day simulation. | MATLAB, Simulink, Simscape, thermodynamics, PI control |
 
 ---
 
